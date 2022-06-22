@@ -8,7 +8,7 @@ A school district asked for a snapshot of several key metrics by each school cam
 ### How is the distric summary affected?
 When comparing the original analysis with the summary post removing the Thomas High 9th graders there was not much of a difference. The total number of students remained the same do the grades of the Thomas High students were the only things dropped.
 
-![Original School Sumamry](Original School Sumamry.png)
+![Original_School_Summary](Original_School_Summary.png)
 
 
 ### How is the school summary affected?
