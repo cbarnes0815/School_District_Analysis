@@ -30,9 +30,10 @@ Adjusted Analysis:
 In the Original Analysis Thomas HS ranked in the 90th percentile as the 2nd ranking school, which was alarming to the School Board. After removing the 9th grade scores from Thomas High the school rank in the bottom 10 placing Thomas HS in 8th place District wise with a 65%.
 
 Original Analysis:
+<img src = "Resources/Original_Reading_Math_Overall.png"/>
 
 Adjusted Analysis:
-
+<img src = "Resources/Adjusted_Reading_Math_Overall.png"/>
 
 ### How does replacing the ninth-grade scores affect the following:
 ## Math and reading scores by grade
@@ -72,3 +73,12 @@ Original Analysis:
 
 Adjusted Analysis:
 <img src ="Resources/Adjusted_School_Type.png"/>
+
+### Summary
+
+In summary the 4 major changes in the School District Analysis after removing the 9th Grade Scores for Thomas High School were:
+
+  1.) The overall passing rate for Thomas High School changed from 91% to 65%
+  2.) Thomas High School's ranking dropped from 2nd to 8th in the district of 15 campuses.
+  3.) The 9th Grade reading and math data will now read "NaN" for Thomas High School
+  4.) The averages and percentages including overall passing rate for Thomas High School saw atleast a 1% change.
