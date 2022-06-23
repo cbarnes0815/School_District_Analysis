@@ -13,11 +13,15 @@ When comparing the original analysis with the summary post removing the Thomas H
 <img src= "Resources/Original_School_Summary.png"/>
 
 ### Adjusted Summary:
-<img src= "Resources/Adjusted_District_Summary.png/>
-
-
+<img src= "Resources/Adjusted_District_Summary.png"/>
 
 ### How is the school summary affected?
+
+In the original analysis, Thomas High School started with a 91% overall passing rate. This was concerning to the Board therefore after removing the 9th graders and recalculating,the rest of the testing data was adjusted accordingly. The results showed that the Thomas High School **Passing Math %, Passing Reading % and Overall %** dropped drastically. The average went from about 91% to 65%.
+
+
+
+
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
