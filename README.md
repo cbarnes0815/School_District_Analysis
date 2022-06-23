@@ -42,7 +42,7 @@ Adjusted Analysis:
 <img src ="Resources/Adjusted_School_Spending.png"/>
 
 ## Scores by school size
-There was little to no impacted on the spending ranges after removing the 9th grade scores. Thomas HS falls within the range to be classified as a medium sized school.
+There was little to no impacted on the school size range after removing the 9th grade scores. Thomas HS falls within the range to be classified as a medium sized school.
 
 Original Analysis:
 <img src ="Resources/Original_School_Size.png"/>
@@ -50,4 +50,11 @@ Original Analysis:
 Adjusted Analysis:
 <img src ="Resources/Adjusted_School_Size.png"/>
 
-Scores by school type
+## Scores by school type
+There was little to no impacted by school type after removing the 9th grade scores. Thomas HS is a Charter School.
+
+Original Analysis:
+<img src ="Resources/Adjusted_School_Type.png"/>
+
+Adjusted Analysis:
+<img src ="Resources/Adjusted_School_Type.png"/>
