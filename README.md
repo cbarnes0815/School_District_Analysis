@@ -25,11 +25,21 @@ Orginal Analysis:
 Adjusted Analysis:
 <img src = "Resources/Adjusted_Thomas_School_Summary.png"/>
 
-
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 ### How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
+## Math and reading scores by grade
+Replacing the 9th grade math and readig scores did not have a direct impact on the other grade levels grades
+
+
+## Scores by school spending
+There was little to no impacted on the spending ranges after removing the 9th grade scores. Thomas HS falls within the $630- $644 per student range.
+
+Original Analysis:
+<img src ="Resources/Original_School_Spending.png"/>
+
+Adjusted Analysis:
+<img src ="Resources/Adjusted_School_Spending.png"/>
+
 Scores by school size
 Scores by school type
