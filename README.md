@@ -27,6 +27,13 @@ Adjusted Analysis:
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+In the Original Analysis Thomas HS ranked in the 90th percentile as the 2nd ranking school, which was alarming to the School Board. After removing the 9th grade scores from Thomas High the school rank in the bottom 10 placing Thomas HS in 8th place District wise with a 65%.
+
+Original Analysis:
+
+Adjusted Analysis:
+
+
 ### How does replacing the ninth-grade scores affect the following:
 ## Math and reading scores by grade
 Replacing the 9th grade math and readig scores did not have a direct impact on the other grade levels grades
