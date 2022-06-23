@@ -78,7 +78,7 @@ Adjusted Analysis:
 
 In summary the 4 major changes in the School District Analysis after removing the 9th Grade Scores for Thomas High School were:
 
-  1.) The overall passing rate for Thomas High School changed from 91% to 65%
-  2.) Thomas High School's ranking dropped from 2nd to 8th in the district of 15 campuses.
-  3.) The 9th Grade reading and math data will now read "NaN" for Thomas High School
-  4.) The averages and percentages including overall passing rate for Thomas High School saw atleast a 1% change.
+  1. The overall passing rate for Thomas High School changed from 91% to 65%
+  2. Thomas High School's ranking dropped from 2nd to 8th in the district of 15 campuses.
+  3. The 9th Grade reading and math data will now read "NaN" for Thomas High School
+  4. The averages and percentages including overall passing rate for Thomas High School saw atleast a 1% change.
