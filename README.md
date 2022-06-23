@@ -31,6 +31,13 @@ Adjusted Analysis:
 ## Math and reading scores by grade
 Replacing the 9th grade math and readig scores did not have a direct impact on the other grade levels grades
 
+Reading: 
+
+<img src = "Resources/Reading_Scores.png" width=35% height=35%>
+
+Math:
+
+<img src = "Resources/Math_Scores.png" width=35% height=35%>
 
 ## Scores by school spending
 There was little to no impacted on the spending ranges after removing the 9th grade scores. Thomas HS falls within the $630- $644 per student range.
